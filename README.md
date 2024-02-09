@@ -8,6 +8,7 @@
 |`syllabus.md`|Календарный план|
 |`exercises`|Листочки с заданиями|
 |`jupyter-notebooks`|Разбор примеров|
+|`LectureSlides`|Материалы лекций|
 
 ## Необходимые библиотеки Python
 
