@@ -9,6 +9,7 @@
 |`exercises`|Листочки с заданиями|
 |`jupyter-notebooks`|Разбор примеров|
 |`LectureSlides`|Материалы лекций|
+|`how-to-install-Python.md`| Как установить Python|
 
 ## Необходимые библиотеки Python
 
