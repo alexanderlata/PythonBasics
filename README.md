@@ -21,3 +21,7 @@
 |[`matplotlib`](https://matplotlib.org/)|Визуализация данных|
 |[`plotly`](https://plotly.com/python/)|Визуализация данных|
 |[`seaborn`](https://seaborn.pydata.org/)|Визуализация статистических данных|
+
+## Задачи
+
+- [Листок 01](https://github.com/alexanderlata/PythonBasics/blob/main/exercises/list01-basics.md): Базовые конструкции Python - часть 1
