@@ -10,6 +10,7 @@
 |`jupyter-notebooks`|Разбор примеров|
 |`LectureSlides`|Материалы лекций|
 |`how-to-install-Python.md`| Как установить Python|
+|`Markdown-docs.md`|Руководство по оформлению Markdown файлов|
 
 ## Необходимые библиотеки Python
 
