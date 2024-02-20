@@ -211,6 +211,26 @@ print("Привет, мир!")
 | Ячейка 1    | Ячейка 2   |
 | Ячейка 3    | Ячейка 4   |
 
+
+Можно управлять выравниванием столбцов при помощи двоеточия.
+```
+| Left-Aligned  | Center Aligned  | Right Aligned |
+|:------------- |:---------------:| -------------:|
+| col 3 is      | some wordy text |     **$1600** |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+```
+***Пример:***
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+|:------------- |:---------------:| -------------:|
+| col 3 is      | some wordy text |     **$1600** |
+| col 2 is      | centered        |         $12   |
+| zebra stripes | are neat        |        ~~$1~~ |
+
+Внутри таблиц можно использовать ссылки, наклонный, жирный или зачеркнутый текст.
+
+
 ---
 
 ### Таблица как HTML
