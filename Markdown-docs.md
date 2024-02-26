@@ -338,6 +338,28 @@ Markdown поддерживает использование прямого HTML
 
 <kbd>CTRL</kbd> + <kbd>P</kbd>
 
+# HTML-стили
+
+<style>
+r { color: Red; 
+    background-color: Bisque}
+o { color: Orange }
+g { color: Green }
+</style>
+
+- <r>TODO:</r> Important thing to do
+- <o>TODO:</o> Less important thing to do
+- <g>DONE:</g> Breath deeply and improve karma
+
+<div style="background-color:Bisque; color:DarkBlue; padding:30px;">
+Напомним, 
+
+$$
+\sum\limits_{i=k}^{p}\sum\limits_{j=m}^{n}a_{ij} = \sum\limits_{i=k}^{p} \left( a_{im} + a_{i,m+1} + \ldots + a_{i,n-1} + a_{in}\right)
+$$
+
+</div>
+
 ---
 
 ## HTML-коды
