@@ -28,3 +28,5 @@
 - [Листок 01](https://github.com/alexanderlata/PythonBasics/blob/main/exercises/list01-basics.md): Базовые конструкции Python - часть 1
 
 - [Листок 02](https://github.com/alexanderlata/PythonBasics/blob/main/exercises/list02-basics.md): Базовые конструкции Python - часть 2
+
+- [Листок 03](https://github.com/alexanderlata/PythonBasics/blob/main/exercises/list03-functions.md): Функции и их особенности в Python
