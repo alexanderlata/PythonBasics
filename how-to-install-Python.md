@@ -18,11 +18,24 @@
 
 В командной строке (Anaconda PowerShell Prompt в Windows, Terminal в MacOS) выполнить следующие команды (это нужно сделать только один раз!)
 
-- `conda install -c plotly plotly`
-- `conda install pandas numpy scipy statsmodels openpyxl`
-- `conda install -c anaconda jupyter jupyterlab pandas-datareader`
-- `conda install -c conda-forge yfinance matplotlib linearmodels seaborn sklearn`
+```bash
+conda install pandas numpy scipy openpyxl
+```
+
+```bash
+conda install -c conda-forge jupyter jupyterlab matplotlib seaborn plotly
+```
 
 # Обновление установленных библиотек
 
-В командной строке (Anaconda PowerShell Prompt в Windows, Terminal в MacOS) выполнить `conda update --all`
+В командной строке (Anaconda PowerShell Prompt в Windows, Terminal в MacOS) выполнить 
+```bash
+conda update --all
+```
+
+# Запуск Jupyter Lab
+
+В командной строке (Anaconda PowerShell Prompt в Windows, Terminal в MacOS) выполнить 
+```bash
+jupyter lab
+```
