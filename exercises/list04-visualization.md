@@ -64,7 +64,71 @@ import seaborn as sns
 
 ---
 
-## Упражнение 3 "Диаграммы"
+## Упражнение 3 "Область допустимых решений"
+
+Постройте область решений системы линейных неравенств
+ 
+$$
+ \begin{cases}
+   4x_1+6x_2 \leqslant 24 
+   \\
+   3x_1+2x_2\leqslant 12
+   \\
+   x_1+x_2\leqslant 8
+   \\
+   x_j\geqslant 0, \, \forall j=1,2.
+ \end{cases}
+$$
+ 
+$$
+\begin{cases}
+   4x_1-x_2 \geqslant 0 
+   \\
+   2x_1+x_2\geqslant 6
+   \\
+   x_1+2x_2\leqslant 16
+   \\
+   x_1-x_2\leqslant 0
+   \\
+   x_1\leqslant 4
+   \\
+   x_j\geqslant 0, \, \forall j=1,2.
+ \end{cases}
+ $$
+
+$$
+\begin{cases}
+   5x_1-x_2 \geqslant 0 
+   \\
+   x_1+x_2 \geqslant 5
+   \\
+   2x_1-3x_2 \leqslant 0
+   \\
+   x_2\geqslant 3
+   \\
+   x_j\geqslant 0, \, \forall j=1,2.
+\end{cases}
+$$
+
+$$
+\begin{cases}
+   3x_1-x_2+2 \geqslant 0 
+   \\
+   2x_1+x_2 \leqslant 16
+   \\
+   -x_1+2x_2 \geqslant 2
+   \\
+   x_2\leqslant 6
+   \\
+   x_1-x_2 \geqslant 3
+   \\
+   x_j\geqslant 0, \, \forall j=1,2.
+\end{cases}
+$$
+
+---
+
+## Упражнение 4 "Диаграммы"
 
 Постройте диаграмму (в разработке)
 
@@ -74,23 +138,23 @@ import seaborn as sns
 
 Постройте поверхности и линии уровня (в разработке)
      
- $ x^2-4x+y^2+2=0$
+ $x^2-4x+y^2+2=0$
 
- $ x^2+4xy^2+y^2-y-12=0$
+ $x^2+4xy^2+y^2-y-12=0$
 
- $ x^3y+3y^3-x+1=0$
+ $x^3y+3y^3-x+1=0$
 
- $ (x-1)^2+(y+3)^2=17$
+ $(x-1)^2+(y+3)^2=17$
 
- $ x^3+(x-4)y^2=0$
+ $x^3+(x-4)y^2=0$
 
- $ x^3+y^2+2x-6=0$
+ $x^3+y^2+2x-6=0$
 
- $ y^4-4x^4-6xy=0$
+ $y^4-4x^4-6xy=0$
 
- $ xy+\ln y=1$
+ $xy+\ln y=1$
 
- $ y^2-e^{xy}=1$
+ $y^2-e^{xy}=1$
 
- $ x^5+y^5-2xy=0$
+ $x^5+y^5-2xy=0$
  
