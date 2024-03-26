@@ -98,7 +98,7 @@ $$
    \\
    x_j\geqslant 0, \, \forall j=1,2.
  \end{cases}
- $$
+$$
 
 $$
 \begin{cases}
