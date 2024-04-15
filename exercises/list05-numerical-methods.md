@@ -23,77 +23,74 @@ __Замечания__
 
 * Даны матрицы 
 $$
-A=\left(\begin{array}{ccc}
+A=\begin{pmatrix}
 1 & -2 & 1 \\
 0 & 0 & 1 \\
 0 & 1 & 1
-\end{array}\right), \; 
-B=\left(\begin{array}{cc}
+\end{pmatrix}, \; 
+B=\begin{pmatrix}
 -1 & 2 \\
 -1 & 0 \\
 3 & 1
-\end{array}\right) \text{ и }\; C=\left(\begin{array}{cc}
+\end{pmatrix} \text{ и }\; C=\begin{pmatrix}
 2 & -1 \\
 -2 & 1
-\end{array}\right).
+\end{pmatrix}.
 $$ 
 Какие из этих матриц можно перемножить друг на друга?
 Найдите соответствующие произведения.
 
 * Даны матрицы  
 $$
-A=\left(\begin{array}{ccc}
+A=\begin{pmatrix}
 3 & 2 & 1 \\
 0 & 4 & 3
-\end{array}\right), \; 
-B=\left(\begin{array}{cc}
+\end{pmatrix}, \; 
+B=\begin{pmatrix}
 1 & 1 \\
 -2 & 2 
-\end{array}\right)\text{ и } \; C=\left(\begin{array}{ccc}
+\end{pmatrix} \text{ и } \; C=\begin{pmatrix}
 3 & -3 & 1 \\
 0 & 0 & 2 \\
 -1 & 1 & 0
-\end{array}\right).
+\end{pmatrix}.
 $$ 
 Какие из этих матриц можно перемножить друг на друга?
 Найдите соответствующие произведения.
 
 * Даны матрицы 
 $$
-A=\left(
-\begin{array}{ccc} 
+A=\begin{pmatrix}
 1 & -3 & 5 \\ 
 2 & 4 & 7
-\end{array} \right) \text{ и } 
-B=\left(
-\begin{array}{ccc} 
+\end{pmatrix} \text{ и } \; B=\begin{pmatrix}
 4 & -3 \\
 6 & 5 \\ 
 1 & -1
-\end{array}\right).
+\end{pmatrix}.
 $$ 
 Вычислите матрицу $C=3A-2B^{\rm T}$.
 
 * Даны матрицы 
 $
-A=\left(
-\begin{array}{ccc} 
+A=
+\begin{pmatrix}
 1 & 0 & 3 \\ 
 2 & 4 & 1 \\
 1 & -4 & 2
-\end{array} \right), 
-B=\left(
-\begin{array}{c} 
+\end{pmatrix}, 
+B=
+\begin{pmatrix}
 1 \\
 3 \\ 
 2 
-\end{array}\right), 
-C=\left(
-\begin{array}{c} 
-            -1 \\
-            2 \\ 
-            1 
-\end{array}\right).
+\end{pmatrix}, \;
+C=
+\begin{pmatrix}
+-1 \\
+2 \\ 
+1 
+\end{pmatrix}.
 $ 
 Вычислите матрицу $D=A^{\rm T}B+2C$.
 
