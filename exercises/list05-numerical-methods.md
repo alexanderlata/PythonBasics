@@ -28,12 +28,12 @@ A=\begin{pmatrix}
 1 & -2 & 1 \\
 0 & 0 & 1 \\
 0 & 1 & 1
-\end{pmatrix}, \; 
+\end{pmatrix},  
 B=\begin{pmatrix}
 -1 & 2 \\
 -1 & 0 \\
 3 & 1
-\end{pmatrix} \text{ и }\; C=\begin{pmatrix}
+\end{pmatrix} \text{ и } C=\begin{pmatrix}
 2 & -1 \\
 -2 & 1
 \end{pmatrix}.
@@ -49,11 +49,11 @@ $$
 A=\begin{pmatrix}
 3 & 2 & 1 \\
 0 & 4 & 3
-\end{pmatrix}, \; 
+\end{pmatrix}, 
 B=\begin{pmatrix}
 1 & 1 \\
 -2 & 2 
-\end{pmatrix} \text{ и } \; C=\begin{pmatrix}
+\end{pmatrix} \text{ и } C=\begin{pmatrix}
 3 & -3 & 1 \\
 0 & 0 & 2 \\
 -1 & 1 & 0
@@ -71,7 +71,7 @@ $$
 A=\begin{pmatrix}
 1 & -3 & 5 \\ 
 2 & 4 & 7
-\end{pmatrix} \text{ и } \; B=\begin{pmatrix}
+\end{pmatrix} \text{ и } B=\begin{pmatrix}
 4 & -3 \\
 6 & 5 \\ 
 1 & -1
@@ -82,6 +82,7 @@ $$
 Вычислите матрицу $C=3A-2B^{\rm T}$.
 
 * Даны матрицы 
+
 $$
 \begin{aligned}
 A=
@@ -95,7 +96,7 @@ B=
 1 \\
 3 \\ 
 2 
-\end{pmatrix}, \;
+\end{pmatrix}, 
 C=
 \begin{pmatrix}
 -1 \\
@@ -104,6 +105,7 @@ C=
 \end{pmatrix}.
 \end{aligned}
 $$ 
+
 Вычислите матрицу $D=A^{\rm T}B+2C$.
 
 ---
