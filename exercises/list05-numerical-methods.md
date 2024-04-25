@@ -149,7 +149,7 @@ $$
 
 ## Упражнение 3 "Экстремум функции одной переменной"
 
-Используя метод `minimize_scalar` библиотеки `scipy.optimize` выясните имеет ли функция $f(x)$ на интервале $[-7, 7]$ экстремумы.
+Используя метод `minimize_scalar` библиотеки `scipy.optimize` выясните имеет ли функция $f(x)$ на отрезке $[-7, 7]$ экстремумы.
 
 * $\displaystyle y=x(x+1)(x-1)$
 * $\displaystyle y=\frac{x^2-1}{x-1}$
@@ -169,19 +169,19 @@ __Замечание__: Последовательность шагов след
 ## Упражнение 4 "Интеграл Римана"
 
 Используя метод `trapz` (метод трапеций) библиотеки `numpy` вычислите численно интеграл Ньютона ("определенный интеграл")
-* $\displaystyle \int\limits_{1}^{2}\left(3x-2\right)^3\,dx$
-* $\displaystyle \int\limits_{-1}^{2}x(3x^4-4x^2+1)\,dx$
-* $\displaystyle \int\limits_{\frac{1}{2}}^{1}\left(2x-1\right)^7\,dx$
-* $\displaystyle \int\limits_{0}^{1}\sqrt{1+x}\,dx$
-* $\displaystyle \int\limits_{0}^{1}\left(e^x+1\right)^4  e^x\,dx$
-* $\displaystyle \int\limits_{1}^{2}\frac{3x\,dx}{\sqrt{5-x^2}}$
-* $\displaystyle \int\limits_{0}^{1}\frac{x\,dx}{(x^2+1)^2}$
+* $\displaystyle \int\limits_{1}^{2}\left(3x-2\right)^3 dx$
+* $\displaystyle \int\limits_{-1}^{2}x(3x^4-4x^2+1) dx$
+* $\displaystyle \int\limits_{\frac{1}{2}}^{1}\left(2x-1\right)^7 dx$
+* $\displaystyle \int\limits_{0}^{1}\sqrt{1+x} dx$
+* $\displaystyle \int\limits_{0}^{1}\left(e^x+1\right)^4 e^x dx$
+* $\displaystyle \int\limits_{1}^{2}\frac{3x dx}{\sqrt{5-x^2}}$
+* $\displaystyle \int\limits_{0}^{1}\frac{x dx}{(x^2+1)^2}$
 * $\displaystyle \int\limits_{-2\sqrt{3}}^{2}\frac{dx}{(4+x^2)^2}$
-* $\displaystyle \int\limits_{0}^{2\pi}\sin^4{x}\,dx$
-* $\displaystyle \int\limits_{1}^{2}\frac{e^{\frac{1}{x}}\,dx}{x^2}$
-* $\displaystyle \int\limits_{\frac{\pi}{6}}^{\frac{\pi}{2}}e^{\sin{x}}\cos{x}\,dx$
-* $\displaystyle \int\limits_{e}^{e^3}\frac{\ln^2{x}}{\frac{1}{x}}\,dx$
-* $\displaystyle \int\limits_{0}^{\frac{\pi}{3}}\frac{\sin{x}}{\cos^3{x}}\,dx$
-* $\displaystyle \int\limits_{1}^{e}\cos(\ln{x})\,dx$
+* $\displaystyle \int\limits_{0}^{2\pi}\sin^4{x} dx$
+* $\displaystyle \int\limits_{1}^{2}\frac{e^{\frac{1}{x}} dx}{x^2}$
+* $\displaystyle \int\limits_{\frac{\pi}{6}}^{\frac{\pi}{2}}e^{\sin{x}}\cos{x} dx$
+* $\displaystyle \int\limits_{e}^{e^3}\frac{\ln^2{x}}{\frac{1}{x}} dx$
+* $\displaystyle \int\limits_{0}^{\frac{\pi}{3}}\frac{\sin{x}}{\cos^3{x}} dx$
+* $\displaystyle \int\limits_{1}^{e}\cos(\ln{x}) dx$
 
 ---
