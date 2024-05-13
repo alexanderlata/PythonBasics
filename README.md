@@ -30,4 +30,4 @@
 - [Листок 03](https://github.com/alexanderlata/PythonBasics/blob/main/exercises/list03-functions.md): Функции и их особенности в Python
 - [Листок 04](https://github.com/alexanderlata/PythonBasics/blob/main/exercises/list04-visualization.md): Визуализация данных с помощью Python
 - [Листок 05](https://github.com/alexanderlata/PythonBasics/blob/main/exercises/list05-numerical-methods.md): Численные методы в Python
-- [Листок 06](https://github.com/alexanderlata/PythonBasics/blob/main/exercises/): Символьные вычисления в Python
+- [Листок 06](https://github.com/alexanderlata/PythonBasics/blob/main/exercises/list06-symbolic-calculations.md): Символьные вычисления в Python
